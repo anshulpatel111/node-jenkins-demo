@@ -7,9 +7,9 @@
     "express": "3.12.0"
   },
   "devDependencies": {
-    "mocha": "1.20.1",
+    "mocha": "latest",
     "supertest": "0.13.0",
-    "mochawesome": "^3.1.0"
+    "mochawesome": "^7.1.0"
   },
   "scripts": {
     "start": "node index.js",
